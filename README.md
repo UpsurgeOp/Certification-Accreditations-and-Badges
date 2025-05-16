@@ -4,6 +4,8 @@ This repository highlights some of my key certifications and professional upskil
 It includes verifiable credentials such as:
 
 - 📄 Advanced MLOps Certificate  
-- 📄 Databricks Fundamentals Certificate  
+- 📄 Databricks Fundamentals Certificate
+- GCP Architect Certificate
+- Generative AI Fundamentals Certificate
 
 These certifications reflect my commitment to continuous learning and staying current with industry-relevant tools and methodologies.
